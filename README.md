@@ -6,6 +6,8 @@ The `Solution` class is an interface here. All leetcode example can be written a
 
 The cmake system is built using Gemini CLI, which is pretty powerful tool. It can also fix your silly errors and optimize your answer, which broaden your eyes but lose some chances to pratice. Be careful to use this tool.
 
+If you find this project helpful, feel free to support me by buying me a coffee!
 
-If you find this helpful, please buy me a coffee.
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jimmyliao886)
+<a href="https://www.buymeacoffee.com/jimmyliao886" target="_blank" rel="noopener noreferrer">
+<img width="140" alt="Buy me a coffee" src="https://github.com/user-attachments/assets/4eab51e0-9993-44e3-876e-8f463f17c174"/>
+</a>
